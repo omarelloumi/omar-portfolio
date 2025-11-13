@@ -1,0 +1,52 @@
+{
+    "name": "Omar Elloumi",
+    "profilePictureUrl": "images/pfp.png",
+    "resumePdfUrl": "resume/cv.pdf",
+    "statusCircleVisible": true,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_freelance",
+    "locales": {
+        "en": {
+            "localized_name": "Omar Elloumi",
+            "localized_name_stylized": "<strong>Omar {{Elloumi}}</strong>",
+            "status_message_available_for_freelance": "Available for work and freelance projects",
+            "roles": [
+                "Software Engineer",
+                "Web Developer",
+                "Shopify Developer",
+                "Support Engineer",
+                "Tech Support Expert"
+            ],
+            "name_pronunciation_ipa": "",
+            "name_pronunciation_audio_url": ""
+        },
+        "fr": {
+            "localized_name": "Omar Elloumi",
+            "localized_name_stylized": "<strong>Omar {{Elloumi}}</strong>",
+            "status_message_available_for_freelance": "Disponible pour travail et freelance",
+            "roles": [
+                "Ingénieur en Informatique",
+                "Développeur Web",
+                "Développeur Shopify",
+                "Ingénieur Support",
+                "Spécialiste Support Technique"
+            ],
+            "name_pronunciation_ipa": "",
+            "name_pronunciation_audio_url": ""
+        },
+        "it": {
+            "localized_name": "Omar Elloumi",
+            "localized_name_stylized": "<strong>Omar {{Elloumi}}</strong>",
+            "status_message_available_for_freelance": "Disponibile per lavoro e progetti freelance",
+            "roles": [
+                "Ingegnere del Informatica",
+                "Sviluppatore Web",
+                "Sviluppatore Shopify",
+                "Ingegnere di Supporto",
+                "Specialista di Supporto Tecnico"
+            ],
+            "name_pronunciation_ipa": "",
+            "name_pronunciation_audio_url": ""
+        }
+    }
+}

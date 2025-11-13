@@ -1,0 +1,63 @@
+{
+    "categories": [
+        {
+            "id": "home",
+            "faIcon": "fa-regular fa-user",
+            "locales": {
+                "en": {
+                    "title": "Home"
+                },
+                "fr": {
+                    "title": "Accueil"
+                },
+                "it": {
+                    "title": "Home"
+                }
+            }
+        },
+        {
+            "id": "background",
+            "faIcon": "fa-regular fa-clock",
+            "locales": {
+                "en": {
+                    "title": "Career"
+                },
+                "fr": {
+                    "title": "Parcours"
+                },
+                "it": {
+                    "title": "Carriera"
+                }
+            }
+        },
+        {
+            "id" : "showcase",
+            "faIcon": "fa-regular fa-folder-open",
+            "locales": {
+                "en": {
+                    "title": "Showcase"},
+                "fr": {
+                    "title": "Vitrine"
+                },
+                "it": {
+                    "title": "Vetrina"
+                }
+            }
+        },
+        {
+            "id": "contact",
+            "faIcon": "fa-regular fa-envelope",
+            "locales": {
+                "en": {
+                    "title": "Contact"
+                },
+                "fr": {
+                    "title": "Contact"
+                },
+                "it": {
+                    "title": "Contatto"
+                }
+            }
+        }
+    ]
+}
