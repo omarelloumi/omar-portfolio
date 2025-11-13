@@ -33,7 +33,7 @@
             "items": [
                 {
                     "id": 2,
-                    "img": "https://scontent-fco2-1.xx.fbcdn.net/v/t39.30808-6/294667494_570351891449626_8629191286824508612_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=A7oj226J074Q7kNvwF3DqWr&_nc_oc=Adl-a0wK843-zNn0BOF1vXTgOh0dtOEwW4n1RqJoKm2PR9vH-qWCz7-3d08xAX8VSdA&_nc_zt=23&_nc_ht=scontent-fco2-1.xx&_nc_gid=r0WUf90ew7jP7Y07sDoRzw&oh=00_AfjJ_A0BYjCjuflXQowhGt-GvOmnF7JTUYKVaSVB7M1CuQ&oe=691597AE",
+                    "img": "http://www.mailleclubgroup.com.tn/wp-content/uploads/2018/12/logo-1.gif",
                     "faIcon": "fa-brands fa-php",
                     "faIconColors": {"bg": "#777BB4", "bgLight": "#777BB4", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
                     "dateStart": {"year": 2020, "month": 6},
@@ -353,7 +353,7 @@
                 },
                 {
                     "id": 6,
-                    "img" : "https://media.licdn.com/dms/image/v2/C4D0BAQHUJm2VN5Er2Q/company-logo_200_200/company-logo_200_200/0/1630564224692/waoo_logo?e=1764201600&v=beta&t=LJIin4AMjnus2W7rWZtxB-C6TZpuhWLlsBGoX45OX30",
+                    "img" : "http://www.mailleclubgroup.com.tn/wp-content/uploads/2018/12/logo-1.gif",
                     "faIcon": "fa-brands fa-wordpress",
                     "faIconColors": {"bg": "#21759B", "bgLight": "#21759B", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
                     "dateStart": {"year": 2024, "month": 2},
