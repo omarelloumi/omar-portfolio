@@ -1,0 +1,96 @@
+{
+    "developerSettings": {
+        "debugMode": false,
+        "fakeEmailRequests": false,
+        "stayOnThePreloaderScreen": false,
+        "version": "1.0.0"
+    },
+    "preloaderSettings": {
+        "enabled": true,
+        "title": "Omar Elloumi <b>Portfolio</b>",
+        "subtitle": "please wait...",
+        "logoOffset": {
+            "right": 14,
+            "top": 2,
+            "bottom": 0
+        }
+    },
+    "templateSettings": {
+        "animatedCursorEnabled": true,
+        "backgroundStyle": "animated",
+        "defaultLanguageId": "en",
+        "defaultThemeId": "dark",
+        "fullscreenEnabled": true,
+        "showSpinnerOnThemeChange": false
+    },
+    "supportedLanguages": [
+        {
+            "name": "English",
+            "id": "en",
+            "flagUrl": "images/flags/en-uk.png"
+        },
+        {
+            "name": "Français",
+            "id": "fr",
+            "flagUrl": "images/flags/fr.png"
+        },
+        {
+            "name": "Italiano",
+            "id": "it",
+            "flagUrl": "images/flags/it.png"
+        }
+    ],
+    "supportedThemes": [
+        {
+            "id": "dark",
+            "icon": "fa-solid fa-moon",
+            "dark": true,
+            "locales": {
+                "en": {
+                    "name": "Dark Mode"
+                },
+                "fr": {
+                    "name": "Mode Sombre"
+                },
+                "it": {
+                    "name": "Modalità Scura"
+                }
+            }
+        },
+        {
+            "id": "light",
+            "icon": "fa-solid fa-sun",
+            "dark": false,
+            "locales": {
+                "en": {
+                    "name": "Light Mode"
+                },
+                "fr": {
+                    "name": "Mode Clair"
+                },
+                "it": {
+                    "name": "Modalità Chiara"
+                }
+            }
+        }
+    ],
+    "consoleMessageForDevelopers": {
+        "title": "🖥️ Hey there, fellow developer!",
+        "items": [
+            {
+                "description": "This is an open-source template based on the React framework.",
+                "list": [],
+                "listStyle": "none"
+            },
+            {
+                "description": "Like what you see? Let's connect!",
+                "list": [
+                    "GitHub: https://github.com/username",
+                    "Website: https://website.com"
+                ],
+                "listStyle": "bulleted"
+            }
+        ]
+    },
+    "imagesToCache": []
+}

@@ -1,0 +1,358 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Skills",
+                "title_short_nav": "Skills",
+                "title_long_prefix": "Explore",
+                "title_long": "my {{Skills}}"
+            },
+            "fr": {
+                "title_short": "Compétences",
+                "title_short_nav": "Compétences",
+                "title_long_prefix": "Découvrez",
+                "title_long": "mes {{Compétences}}"
+            },
+            "it": {
+                "title_short": "Competenze",
+                "title_short_nav": "Competenze",
+                "title_long_prefix": "Esplora",
+                "title_long": "le mie {{Competenze}}"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{Platforms}} & Environments" },
+                "fr": {"title": "Plateformes & {{Environnements}}" },
+                "it": {"title": "Piattaforme & {{Ambienti}}" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "round_icons": false
+            },
+            "items": [
+
+                {
+                    "id": 0,
+                    "faIcon": "fa-brands fa-shopify",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#96bf48", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "Shopify"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "img": "",
+                    "faIcon": "fa-brands fa-node-js",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#339933", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "Node.js"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{Frontend}} Technologies" },
+                "fr": {"title": "Technologies {{Frontend}}" },
+                "it": {"title": "Tecnologie {{Frontend}}" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png",
+                    "faIcon": "fa-brands fa-html5",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#E34F26", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "HTML5"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
+                    "faIcon": "fa-brands fa-css3-alt",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#1572B6", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "CSS3"
+                        }
+                    }
+                },
+                {
+                    "id": 0,
+                    "faIcon": "fa-brands fa-js",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#F7DF1E", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg",
+                    "faIcon": "fa-brands fa-typescript",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#3178C6", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "TypeScript"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "https://repository-images.githubusercontent.com/504051433/dbab2f42-150c-4eaf-8e30-4bce79758e16",
+                    "faIcon": "fa-brands fa-shopify",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#95bf47", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "Liquid"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-brands fa-react",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#61DAFB", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "React"
+                        }
+                    }
+                },
+
+                {
+                    "id": 6,
+                    "img": "https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg",
+                    "faIcon": "fa-brands fa-tailwind-css",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#38B2AC", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "Tailwind CSS"
+                        }
+                    }
+                }
+            ]
+
+        },
+        {
+            "id": 3,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{Backend}} Technologies" },
+                "fr": {"title": "Technologies {{Backend}}" },
+                "it": {"title": "Tecnologie {{Backend}}" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-brands fa-python",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#3776AB", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "Python"
+                        }
+                    }
+                },
+                {
+                    "id": 0,
+                    "faIcon": "fa-brands fa-php",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#777BB", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "PHP"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "img": "https://static.djangoproject.com/img/logos/django-logo-negative.svg",
+                    "faIcon": "fa-brands fa-django",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#0295c2", "fillLight": "#007396"},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "Django"
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "img": "https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg",
+                    "faIcon": "fa-brands fa-express-js",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#CC0000", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "Express.js"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-symfony",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#000000", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "Symfony"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg",
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#4479A1", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "MySQL"
+                        }
+                    }
+
+                },
+                {
+                    "id": 6,
+                    "img": "https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg",
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#47A248", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB"
+                        }
+                    }
+
+                }
+            ]
+
+        },
+        {
+            "id": 4,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{Version}} Control" },
+                "fr": {"title": "{{Contrôle}} de Version" },
+                "it": {"title": "{{Controllo}} di Versione" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 0,
+                    "faIcon": "fa-brands fa-git-alt",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#F05032", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "Git"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "faIcon": "fa-brands fa-github",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#181717", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "GitHub"
+                        }
+                    }
+                }
+            ]
+
+        },
+        {
+            "id": 5,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{Project}} Management Tools" },
+                "fr": {"title": "Outils de {{Gestion}} de Projet" },
+                "it": {"title": "Strumenti di {{Gestione}} Progetto" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "round_icons": false
+            },
+            "items": [
+                {
+                    "id": 0,
+                    "faIcon": "fa-brands fa-jira",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#0052CC", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "Jira"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "faIcon": "fa-brands fa-trello",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#0079BF", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "Trello"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "https://website-assets-staging.productive.io/uploads/2023/08/color-logo-1.svg",
+                    "faIcon": "fa-solid fa-check-to-slot",
+                    "faIconColors": {"bg": "", "bgLight": "", "fill": "#4CAF50", "fillLight": ""},
+                    "date": {"year": null, "month": null},
+                    "locales": {
+                        "en": {
+                            "title": "Productive.io"
+                        }
+                    }
+                }
+            ]
+
+        }
+    ]
+}

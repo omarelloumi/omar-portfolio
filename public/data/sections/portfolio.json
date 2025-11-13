@@ -1,0 +1,261 @@
+{
+  "title": {
+    "locales": {
+      "en": {
+        "title_short": "Portfolio",
+        "title_short_nav": "Projects",
+        "title_long_prefix": "explore",
+        "title_long": "my {{Portfolio}}"
+      },
+      "fr": {
+          "title_short": "Portfolio",
+          "title_short_nav": "Projets",
+          "title_long_prefix": "explorez",
+          "title_long": "mon {{Portfolio}}"
+      },
+      "it": {
+          "title_short": "Portfolio",
+          "title_short_nav": "Progetti",
+          "title_long_prefix": "esplora",
+          "title_long": "il mio {{Portfolio}}"
+      }
+    }
+  },
+  "articles": [
+
+    {
+      "id": 1,
+      "component": "ArticlePortfolio",
+      "locales": {
+        "en": {
+          "title": "{{Shopify}} Projects"
+        },
+        "fr": {
+          "title": "Projets {{Shopify}}"
+        },
+        "it": {
+          "title": "Progetti {{Shopify}}"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": "https://play-lh.googleusercontent.com/-SkNIpMLUJ2g-wBlnWkPIj-T_yjO25MX98Uim1ESBL7-wINV-rQkw4236YedgT7khK8",
+
+          "preview": {
+            "links": [
+            ],
+            "screenshots": [
+            ],
+            "screenshotsAspectRatio": "16:9"
+          },
+          "locales": {
+            "en": {
+              "title": "Euronics",
+              "text": "While working with Flatline Agency, I contributed to the development of the Euronics Shopify online store, focusing on front-end implementation, code optimization, and responsive design. My work involved building and refining UI components, ensuring performance, and maintaining clean, scalable code.\n\nAll credit for the project goes to Flatline Agency.",
+              "tags": ["Shopify","Liquid", "TailwindCSS", "jQuery"]
+            },
+            "fr": {
+              "title": "Euronics",
+              "text": "En travaillant avec Flatline Agency, j'ai contribué au développement de la boutique en ligne Shopify d'Euronics, en me concentrant sur la mise en œuvre du front-end, l'optimisation du code et le design responsive. Mon travail a consisté à construire et affiner les composants UI, à assurer la performance et à maintenir un code propre et évolutif.\n\nTout le mérite du projet revient à Flatline Agency.",
+              "tags": ["Shopify","Liquid", "TailwindCSS", "jQuery"]
+            },
+            "it": {
+              "title": "Euronics",
+              "text": "Durante la mia collaborazione con Flatline Agency, ho contribuito allo sviluppo del negozio online Shopify di Euronics, concentrandomi sull'implementazione del front-end, l'ottimizzazione del codice e il design responsive. Il mio lavoro ha comportato la costruzione e il perfezionamento dei componenti UI, garantendo prestazioni elevate e mantenendo un codice pulito e scalabile.\n\nTutti i meriti del progetto vanno a Flatline Agency.",
+              "tags": [
+                "Shopify",
+                "Liquid",
+                "TailwindCSS",
+                "jQuery"
+              ]
+            }
+          }
+        },
+        {
+          "id": 2,
+          "img": "https://www.logo.wine/a/logo/Converse_(shoe_company)/Converse_(shoe_company)-Icon-Logo.wine.svg",
+          "faIcon": "fa-solid fa-laptop-code",
+          "faIconColors": {"bg": "white"},
+          "preview": {
+            "links": [
+              {"href": "https://github.com/omarelloumi/converse-clone", "faIcon": "fa-brands fa-github"}
+            ],
+            "screenshots": [
+            ],
+            "screenshotsAspectRatio": "16:9"
+          },
+          "locales": {
+            "en": {
+              "title": "Converse Clone",
+              "text": "A Converse-style e-commerce store using Shopify, showcasing modern design and smooth user experience. The project includes a fully functional homepage and product detail page, both optimized for performance and responsive design.",
+              "tags": ["Shopify", "Liquid", "tailwindCSS", "JavaScript"]
+            },
+            "fr": {
+              "title": "Clone de Converse",
+              "text": "Une boutique e-commerce de style Converse utilisant Shopify, mettant en avant un design moderne et une expérience utilisateur fluide. Le projet comprend une page d'accueil et une page de détail produit entièrement fonctionnelles, toutes deux optimisées pour la performance et le design responsive.",
+              "tags": ["Shopify", "Liquid", "tailwindCSS", "JavaScript"]
+            },
+            "it": {
+              "title": "Clone di Converse",
+              "text": "Un negozio e-commerce in stile Converse utilizzando Shopify, che presenta un design moderno e un'esperienza utente fluida. Il progetto include una homepage e una una pagina di dettaglio prodotto completamente funzionali, entrambe ottimizzate per le prestazioni e il design responsive.",
+              "tags": [
+                "Shopify",
+                "Liquid",
+                "tailwindCSS",
+                "JavaScript"
+              ]
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "component": "ArticlePortfolio",
+      "locales": {
+        "en": {
+          "title": "{{Web Development}} Projects"
+        },
+        "fr": {
+          "title": "Projets de {{Développement Web}}"
+        },
+        "it": {
+          "title": "Progetti di {{Sviluppo Web}}"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": "images/portfolio/spacetune/logo.png",
+          "faIcon": "fa-solid fa-laptop-code",
+          "faIconColors": {"bg": "black"},
+          "preview": {
+            "links": [
+              {"href": "https://github.com/omarelloumi/SpaceTune-front", "faIcon": "fa-brands fa-github"}
+            ],
+            "screenshots": [
+            ],
+            "screenshotsAspectRatio": "16:9"
+          },
+          "locales": {
+            "en": {
+              "title": "SpaceTune",
+              "text": "A full-featured music platform that lets users shop for instruments, explore interactive tools like a metronome and beat maker, and access music blogs and lessons. Designed to bring musicians everything they need, from learning and creating to buying, in one seamless web experience.",
+              "tags": [
+                "React",
+                "Express.js",
+                "MongoDB",
+                "Node.js",
+                "tailwindCSS"
+              ]
+            }
+          }
+        },
+        {
+          "id": 2,
+          "img": "images/portfolio/socialmedia/memories.png",
+          "faIcon": "fa-solid fa-laptop-code",
+          "faIconColors": {"bg": "#1E40AF"},
+          "preview": {
+            "links": [
+              {"href": "https://github.com/omarelloumi/SocialMedia", "faIcon": "fa-brands fa-github"}
+            ],
+            "screenshots": [
+            ],
+            "screenshotsAspectRatio": "16:9"
+          },
+          "locales": {
+            "en": {
+              "title": "Memories",
+              "text": "A simple Memories web application built with the MERN stack (MongoDB, Express.js, React, Node.js) and styled using Material UI. Users can create, edit, delete, and view memories, each containing a title, content, and tags. The app includes user authentication and a search feature to easily find specific memories.",
+                "tags": [
+                    "React",
+                    "Express.js",
+                    "MongoDB",
+                    "Node.js"
+                ]
+            },
+            "fr": {
+              "title": "Memories",
+              "text": "Une application web Memories simple construite avec la stack MERN (MongoDB, Express.js, React, Node.js) et stylée en utilisant Material UI. Les utilisateurs peuvent créer, éditer, supprimer et visualiser des souvenirs, chacun contenant un titre, un contenu et des tags. L'application inclut une authentification utilisateur et une fonctionnalité de recherche pour trouver facilement des souvenirs spécifiques.",
+                "tags": [
+                    "React",
+                    "Express.js",
+                    "MongoDB",
+                    "Node.js"
+                ]
+            },
+            "it": {
+              "title": "Memories",
+              "text": "Una semplice applicazione web Memories costruita con lo stack MERN (MongoDB, Express.js, React, Node.js) e stilizzata utilizzando Material UI. Gli utenti possono creare, modificare, eliminare e visualizzare i ricordi, ognuno contenente un titolo, un contenuto e dei tag. L'app include l'autenticazione utente e una funzione di ricerca per trovare facilmente ricordi specifici.",
+                "tags": [
+                    "React",
+                    "Express.js",
+                    "MongoDB",
+                    "Node.js"
+                  ]
+            }
+        }
+          },
+        {
+          "id": 3,
+          "img": "images/portfolio/devgym/Logo.png",
+          "faIcon": "fa-solid fa-laptop-code",
+          "faIconColors": {
+            "bg": "white"
+          },
+          "preview": {
+            "links": [
+              {
+                "href": "https://github.com/omarelloumi/DevGym",
+                "faIcon": "fa-brands fa-github"
+              }
+            ],
+            "screenshots": [
+            ],
+            "screenshotsAspectRatio": "16:9"
+          },
+          "locales": {
+            "en": {
+              "title": "DevGym",
+              "text": "A web application that allows users to search for workout exercises targeting specific body parts. The app provides a wide variety of exercise suggestions, helping users customize their fitness routines efficiently.",
+              "tags": [
+                "React",
+                "API Integration",
+                "tailwindCSS"
+              ]
+            },
+            "fr": {
+              "title": "DevGym",
+              "text": "Une application web qui permet aux utilisateurs de rechercher des exercices d'entraînement ciblant des parties spécifiques du corps. L'application fournit une grande variété de suggestions d'exercices, aidant les utilisateurs à personnaliser efficacement leurs routines de fitness.",
+              "tags": [
+                "React",
+                "API Integration",
+                "tailwindCSS"
+              ]
+            },
+            "it": {
+              "title": "DevGym",
+              "text": "Un'applicazione web che consente agli utenti di cercare esercizi di allenamento mirati a specifiche parti del corpo. L'app fornisce una vasta gamma di suggerimenti di esercizi, aiutando gli utenti a personalizzare efficacemente le loro routine di fitness.",
+              "tags": [
+                "React",
+                "API Integration",
+                "tailwindCSS"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

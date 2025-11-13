@@ -1,0 +1,98 @@
+{
+  "title": {
+    "locales": {
+      "en": {
+        "title_short": "Education",
+        "title_short_nav": "Education",
+        "title_long_prefix": "a summary of my",
+        "title_long": "{{Educational}} Background"
+      },
+      "fr": {
+          "title_short": "Éducation",
+          "title_short_nav": "Éducation",
+          "title_long_prefix": "un résumé de mon",
+          "title_long": "Parcours {{Éducatif}}"
+      },
+      "it": {
+          "title_short": "Istruzione",
+          "title_short_nav": "Istruzione",
+          "title_long_prefix": "un riassunto del mio",
+          "title_long": "Percorso {{Educativo}}"
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleTimeline",
+      "settings": {
+        "order_items_by": "dateStart",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 6,
+          "img" : "https://www.ecoles.com.tn/sites/default/files/universite/logo/esprit-logo.jpg",
+          "faIcon": "fa-brands fa-wordpress",
+          "faIconColors": {"bg": "#21759B", "bgLight": "#21759B", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
+          "dateStart": {"year": 2018, "month": 9},
+          "dateEnd": {"year": 2024 , "month": 6},
+          "locales": {
+            "en": {
+              "title": "Master's of Engineering in {{Computer Science}}",
+              "province": "Tunis",
+              "country": "Tunisia",
+              "institution": "ESPRIT Ecole Supérieure Privée d'Ingénierie et de Technologies",
+              "text": "Specialization in {{Software Engineering}} and {{Web Technologies}}."
+            },
+            "fr": {
+              "title": "Diplôme d'Ingénieur en {{Informatique}}",
+              "province": "Tunis",
+              "country": "Tunisie",
+              "institution": "ESPRIT Ecole Supérieure Privée d'Ingénierie et de Technologies",
+              "text": "Spécialisation en {{Génie Logiciel}} et {{Technologies Web}}."
+            },
+            "it": {
+              "title": "Laurea Magistrale in {{Informatica}}",
+              "province": "Tunisi",
+              "country": "Tunisia",
+              "institution": "ESPRIT Ecole Supérieure Privée d'Ingénierie et de Technologies",
+              "text": "Specializzazione in {{Ingegneria del Software}} e {{Tecnologie Web}}."
+            }
+          }
+        },
+        {
+            "id": 7,
+            "img" : "https://media.licdn.com/dms/image/v2/C4D0BAQH8Y2dLNexn1A/company-logo_200_200/company-logo_200_200/0/1630559217346/rome_business_school_logo?e=1764201600&v=beta&t=kU1Ucyo1Z1iQ6IIQZjlDOy1PgAdh7PUEv7KgppBnihY",
+            "faIcon": "fa-solid fa-chart-line",
+            "faIconColors": {"bg": "#1E90FF", "bgLight": "#1E90FF", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
+            "dateStart": {"year": 2025 , "month": 4},
+            "dateEnd": {"year": 2026 , "month": 4},
+            "locales": {
+                "en": {
+                "title": "Master's of Business Administration in {{Data Science}}",
+                "province": "Rome",
+                "country": "Italy",
+                "institution": "Rome Business School",
+                "text": "Focus on {{Data Analysis}}, {{Machine Learning}}, and {{Artificial Intelligence}}."
+                },
+                "fr": {
+                "title": "Master en {{Data Science}}",
+                "province": "Rome",
+                "country": "Italie",
+                "institution": "Rome Business School",
+                "text": "Focus sur l'{{Analyse de Données}}, le {{Machine Learning}}, et l'{{Intelligence Artificielle}}."
+                },
+                "it": {
+                "title": "Laurea Magistrale in Amministrazione Aziendale in {{Data Science}}",
+                "province": "Roma",
+                "country": "Italia",
+                "institution": "Rome Business School",
+                "text": "Focus su {{Analisi dei Dati}}, {{Machine Learning}}, e {{Intelligenza Artificiale}}."
+                }
+            }
+        }
+      ]
+    }
+  ]
+}

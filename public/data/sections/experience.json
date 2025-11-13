@@ -1,0 +1,439 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Professional {{Experience}}",
+                "title_short_nav": "Experience",
+                "title_long_prefix": "walking through my",
+                "title_long": "Professional {{Experience}}"
+            },
+            "fr": {
+                "title_short": "Expérience {{Professionnelle}}",
+                "title_short_nav": "Expérience",
+                "title_long_prefix": "à travers mon",
+                "title_long": "{{Parcours}} Professionnel"
+            },
+            "it": {
+                "title_short": "Esperienza {{Professionale}}",
+                "title_short_nav": "Esperienza",
+                "title_long_prefix": "attraverso la mia",
+                "title_long": "{{Esperienza}} Professionale"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+
+            "settings": {
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 2,
+                    "img": "https://scontent-fco2-1.xx.fbcdn.net/v/t39.30808-6/294667494_570351891449626_8629191286824508612_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=A7oj226J074Q7kNvwF3DqWr&_nc_oc=Adl-a0wK843-zNn0BOF1vXTgOh0dtOEwW4n1RqJoKm2PR9vH-qWCz7-3d08xAX8VSdA&_nc_zt=23&_nc_ht=scontent-fco2-1.xx&_nc_gid=r0WUf90ew7jP7Y07sDoRzw&oh=00_AfjJ_A0BYjCjuflXQowhGt-GvOmnF7JTUYKVaSVB7M1CuQ&oe=691597AE",
+                    "faIcon": "fa-brands fa-php",
+                    "faIconColors": {"bg": "#777BB4", "bgLight": "#777BB4", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
+                    "dateStart": {"year": 2020, "month": 6},
+                    "dateEnd": {"year": 2020, "month": 9},
+                    "locales": {
+                        "en": {
+                            "title": "Web Developer - Internship",
+                            "province": "Tunis",
+                            "country": "Tunisia",
+                            "institution": "Maille Club Group",
+                            "text": "Worked as a Web Developer intern at Maille Club Group. Responsibilities included:",
+                            "list": [
+                                "Developing a custom web-based medical appointment system for the company.",
+                                "Designing intuitive user interfaces for patients and administrators, solving complex workflow challenges and enabling seamless end-to-end appointment management."
+                            ],
+                            "tags": [
+                                "JavaScript",
+                                "CSS",
+                                "Git",
+                                "SQL",
+                                "PHP",
+                                "HTML5",
+                                "Programming",
+                                "Symfony"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Développeur Web - Stage",
+                            "province": "Tunis",
+                            "country": "Tunisie",
+                            "institution": "Maille Club Group",
+                            "text": "J'ai travaillé en tant que stagiaire développeur web chez Maille Club Group. Mes responsabilités comprenaient :",
+                            "list": [
+                                "Développement d'un système de rendez-vous médicaux personnalisé basé sur le web pour l'entreprise.",
+                                "Conception d'interfaces utilisateur intuitives pour les patients et les administrateurs, résolvant des défis complexes de flux de travail et permettant une gestion transparente des rendez-vous de bout en bout."
+                            ],
+                            "tags": [
+                                "JavaScript",
+                                "CSS",
+                                "Git",
+                                "SQL",
+                                "PHP",
+                                "HTML5",
+                                "Programmation",
+                                "Symfony"
+                            ]
+                        },
+                        "it": {
+                            "title": "Sviluppatore Web - Tirocinio",
+                            "province": "Tunisi",
+                            "country": "Tunisia",
+                            "institution": "Maille Club Group",
+                            "text": "Ho lavorato come stagista sviluppatore web presso Maille Club Group. Le responsabilità includevano:",
+                            "list": [
+                                "Sviluppo di un sistema di appuntamenti medici personalizzato basato sul web per l'azienda.",
+                                "Progettazione di interfacce utente intuitive per pazienti e amministratori, risolvendo complesse sfide di flusso di lavoro e consentendo una gestione senza soluzione di continuità degli appuntamenti end-to-end."
+                            ],
+                            "tags": [
+                                "JavaScript",
+                                "CSS",
+                                "Git",
+                                "SQL",
+                                "PHP",
+                                "HTML5",
+                                "Programmazione",
+                                "Symfony"
+                            ]
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "img": "https://media.licdn.com/dms/image/v2/C4D0BAQFVoaXuczG5fA/company-logo_200_200/company-logo_200_200/0/1630469439480/teamwill_logo?e=2147483647&v=beta&t=7fHxHT5xaCr6TDAUVXqWcdk0JgDMtCjkV_BVdbtEvvA",
+                    "faIcon": "fa-brands fa-python",
+                    "faIconColors": {"bg": "#3776AB", "bgLight": "#3776AB", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
+                    "dateStart": {"year": 2021, "month": 6},
+                    "dateEnd": {"year": 2021, "month": 9},
+                    "locales": {
+                        "en": {
+                            "title": "Full Stack Developer - Internship",
+                            "province": "Tunis",
+                            "country": "Tunisia",
+                            "institution": "TEAMWILL",
+                            "text": "Worked as a Full Stack Developer intern at TEAMWILL. Responsibilities included:",
+                            "list": [
+                                "Collaborated within an Agile team to enhance an educational platform, combining technical expertise with a user-centric mindset to deliver impactful features.",
+                                "Implemented essential features like user authentication and trainer dashboards."
+                            ],
+                            "tags": [
+                                "Python",
+                                "TypeScript",
+                                "React",
+                                "Git",
+                                "SQL",
+                                "Flask",
+                                "HTML",
+                                "Programming",
+                                "Teamwork"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Développeur Full Stack - Stage",
+                            "province": "Tunis",
+                            "country": "Tunisie",
+                            "institution": "TEAMWILL",
+                            "text": "J'ai travaillé en tant que stagiaire développeur Full Stack chez TEAMWILL. Mes responsabilités comprenaient :",
+                            "list": [
+                                "Collaboration au sein d'une équipe Agile pour améliorer une plateforme éducative, combinant expertise technique et approche centrée sur l'utilisateur pour offrir des fonctionnalités percutantes.",
+                                "Mise en œuvre de fonctionnalités essentielles telles que l'authentification des utilisateurs et les tableaux de bord des formateurs."
+                            ],
+                            "tags": [
+                                "Python",
+                                "TypeScript",
+                                "React",
+                                "Git",
+                                "SQL",
+                                "Flask",
+                                "HTML",
+                                "Programmation",
+                                "Travail d'équipe"
+                            ]
+                        },
+                        "it": {
+                            "title": "Sviluppatore Full Stack - Tirocinio",
+                            "province": "Tunisi",
+                            "country": "Tunisia",
+                            "institution": "TEAMWILL",
+                            "text": "Ho lavorato come stagista sviluppatore Full Stack presso TEAMWILL. Le responsabilità includevano:",
+                            "list": [
+                                "Collaborato all'interno di un team Agile per migliorare una piattaforma educativa, combinando competenze tecniche con una mentalità incentrata sull'utente per offrire funzionalità di impatto.",
+                                "Implementato funzionalità essenziali come l'autenticazione degli utenti e i cruscotti dei formatori."
+                            ],
+                            "tags": [
+                                "Python",
+                                "TypeScript",
+                                "React",
+                                "Git",
+                                "SQL",
+                                "Flask",
+                                "HTML",
+                                "Programmazione",
+                                "Lavoro di squadra"
+                            ]
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "img": "https://media.licdn.com/dms/image/v2/D4E0BAQEJjn1mPZ9jyA/company-logo_200_200/company-logo_200_200/0/1735815599716/flatline_agency_logo?e=1764201600&v=beta&t=_nL9z4BwNpB-Hvq1QF8ygrIBiwAwuKVv1oN5mfhNtvg",
+                    "faIcon": "fa-brands fa-shopify",
+                    "faIconColors": {"bg": "#96BF48", "bgLight": "#96BF48", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
+                    "dateStart": {"year": 2022, "month": 10},
+                    "dateEnd": {"year": 2023, "month": 3},
+                    "locales": {
+                        "en": {
+                            "title": "Shopify Developer - Internship",
+                            "province": "Amsterdam, North Holland",
+                            "country": "Netherlands",
+                            "institution": "Flatline Agency",
+                            "text": "Worked as a Shopify Developer intern at Flatline Agency. Responsibilities included:",
+                            "list": [
+                                "Developed custom Shopify themes tailored to diverse e-commerce needs, delivering seamless user experiences and optimized storefronts that improved customer engagement and boosted conversion rates.",
+                                "Translated high-fidelity Figma mockups into responsive and interactive user interfaces using Liquid, TailwindCSS, and jQuery, ensuring pixel-perfect implementation across devices.",
+                                "Collaborated within an Agile team alongside designers and developers to implement scalable and maintainable solutions, while aligning with business and client requirements.",
+                                "Used Git for version control and code collaboration, contributing clean and well-documented code in a fast-paced, production-focused environment."
+                            ],
+                            "tags": [
+                                "Shopify",
+                                "Liquid",
+                                "Tailwind CSS",
+                                "jQuery",
+                                "Git",
+                                "Figma",
+                                "E-Commerce",
+                                "SEO",
+                                "Agile",
+                                "Programming"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Développeur Shopify - Stage",
+                            "province": "Amsterdam, Hollande-Septentrionale",
+                            "country": "Pays-Bas",
+                            "institution": "Flatline Agency",
+                            "text": "J'ai travaillé en tant que stagiaire développeur Shopify chez Flatline Agency. Mes responsabilités comprenaient :",
+                            "list": [
+                                "Développement de thèmes Shopify personnalisés adaptés aux divers besoins du commerce électronique, offrant des expériences utilisateur fluides et des vitrines optimisées qui ont amélioré l'engagement des clients et augmenté les taux de conversion.",
+                                "Traduction de maquettes Figma haute fidélité en interfaces utilisateur réactives et interactives à l'aide de Liquid, TailwindCSS et jQuery, garantissant une mise en œuvre pixel parfaite sur tous les appareils.",
+                                "Collaboration au sein d'une équipe Agile aux côtés de designers et de développeurs pour mettre en œuvre des solutions évolutives et maintenables, tout en s'alignant sur les exigences commerciales et client.",
+                                "Utilisation de Git pour le contrôle de version et la collaboration sur le code, contribuant avec un code propre et bien documenté dans un environnement axé sur la production et à rythme rapide."
+                            ],
+                            "tags": [
+                                "Shopify",
+                                "Liquid",
+                                "Tailwind CSS",
+                                "jQuery",
+                                "Git",
+                                "Figma",
+                                "E-Commerce",
+                                "SEO",
+                                "Agile",
+                                "Programmation"
+                            ]
+                        },
+                        "it": {
+                            "title": "Sviluppatore Shopify - Tirocinio",
+                            "province": "Amsterdam, Olanda Settentrionale",
+                            "country": "Paesi Bassi",
+                            "institution": "Flatline Agency",
+                            "text": "Ho lavorato come stagista sviluppatore Shopify presso Flatline Agency. Le responsabilità includevano:",
+                            "list": [
+                                "Sviluppato temi Shopify personalizzati su misura per diverse esigenze di e-commerce, offrendo esperienze utente senza soluzione di continuità e vetrine ottimizzate che hanno migliorato il coinvolgimento dei clienti e aumentato i tassi di conversione.",
+                                "Tradotto mockup Figma ad alta fedeltà in interfacce utente reattive e interattive utilizzando Liquid, TailwindCSS e jQuery, garantendo un'implementazione pixel-perfect su tutti i dispositivi.",
+                                "Collaborato all'interno di un team Agile insieme a designer e sviluppatori per implementare soluzioni scalabili e manutenibili, allineandosi ai requisiti aziendali e dei clienti.",
+                                "Utilizzato Git per il controllo delle versioni e la collaborazione sul codice, contribuendo con codice pulito e ben documentato in un ambiente frenetico e orientato alla produzione."
+                            ],
+                            "tags": [
+                                "Shopify",
+                                "Liquid",
+                                "Tailwind CSS",
+                                "jQuery",
+                                "Git",
+                                "Figma",
+                                "E-Commerce",
+                                "SEO",
+                                "Agile",
+                                "Programmazione"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "https://scontent-fco2-1.xx.fbcdn.net/v/t39.30808-6/294667494_570351891449626_8629191286824508612_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=A7oj226J074Q7kNvwF3DqWr&_nc_oc=Adl-a0wK843-zNn0BOF1vXTgOh0dtOEwW4n1RqJoKm2PR9vH-qWCz7-3d08xAX8VSdA&_nc_zt=23&_nc_ht=scontent-fco2-1.xx&_nc_gid=r0WUf90ew7jP7Y07sDoRzw&oh=00_AfjJ_A0BYjCjuflXQowhGt-GvOmnF7JTUYKVaSVB7M1CuQ&oe=691597AE",
+
+                    "faIcon": "fa-solid fa-project-diagram",
+                    "faIconColors": {"bg": "#6E6E6E", "bgLight": "#6E6E6E", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
+                    "dateStart": {"year": 2023, "month": 6},
+                    "dateEnd": {"year": 2024, "month": 1},
+                    "locales": {
+                        "en": {
+                            "title": "Project Manager - Full-time",
+                            "province": "Tunis",
+                            "country": "Tunisia",
+                            "institution": "Maille Club Group",
+                            "text": "Worked as a Project Manager at Maille Club Group. Responsibilities included:",
+                            "list": [
+                                "Led the development of a prediction model aimed at optimizing inventory management and sales forecasting, leveraging data insights to significantly improve operational efficiency.",
+                                "Collaborated closely with cross-functional teams to ensure the solution aligned with business needs and could be seamlessly integrated into existing workflows.",
+                                "Effectively translated complex technical concepts for non-technical stakeholders, facilitating alignment, informed decision-making, and cross-departmental engagement.",
+                                "Managed project planning and task tracking using Jira within an Agile environment, promoting transparency, accountability, and timely delivery across technical and business teams."
+                            ],
+                            "tags": [
+                                "Scrum",
+                                "Jira",
+                                "Python",
+                                "Project Management",
+                                "E-Commerce",
+                                "Microsoft Power BI",
+                                "Agile",
+                                "Programming",
+                                "FinTech"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Chef de Projet - Temps plein",
+                            "province": "Tunis",
+                            "country": "Tunisie",
+                            "institution": "Maille Club Group",
+                            "text": "J'ai travaillé en tant que chef de projet chez Maille Club Group. Mes responsabilités comprenaient :",
+                            "list": [
+                                "Dirigé le développement d'un modèle de prédiction visant à optimiser la gestion des stocks et la prévision des ventes, en tirant parti des informations sur les données pour améliorer considérablement l'efficacité opérationnelle.",
+                                "Collaboré étroitement avec des équipes interfonctionnelles pour garantir que la solution était alignée sur les besoins de l'entreprise et pouvait être intégrée de manière transparente dans les flux de travail existants.",
+                                "Traduit efficacement des concepts techniques complexes pour les parties prenantes non techniques, facilitant l'alignement, la prise de décision éclairée et l'engagement inter-départemental.",
+                                "Géré la planification de projet et le suivi des tâches à l'aide de Jira dans un environnement Agile, favorisant la transparence, la responsabilité et la livraison en temps opportun entre les équipes techniques et commerciales."
+                            ],
+                            "tags": [
+                                "Scrum",
+                                "Jira",
+                                "Python",
+                                "Gestion de Projet",
+                                "E-Commerce",
+                                "Microsoft Power BI",
+                                "Agile",
+                                "Programmation",
+                                "FinTech"
+                            ]
+                        },
+                        "it": {
+                            "title": "Project Manager - Tempo pieno",
+                            "province": "Tunisi",
+                            "country": "Tunisia",
+                            "institution": "Maille Club Group",
+                            "text": "Ho lavorato come Project Manager presso Maille Club Group. Le responsabilità includevano:",
+                            "list": [
+                                "Guidato lo sviluppo di un modello di previsione volto a ottimizzare la gestione dell'inventario e la previsione delle vendite, sfruttando le intuizioni sui dati per migliorare significativamente l'efficienza operativa.",
+                                "Collaborato strettamente con team interfunzionali per garantire che la soluzione fosse allineata alle esigenze aziendali e potesse essere integrata senza problemi nei flussi di lavoro esistenti.",
+                                "Tradotto efficacemente concetti tecnici complessi per le parti interessate non tecniche, facilitando l'allineamento, il processo decisionale informato e il coinvolgimento interdipartimentimentale.",
+                                "Gestito la pianificazione del progetto e il monitoraggio delle attività utilizzando Jira all'interno di un ambiente Agile, promuovendo trasparenza, responsabilità e consegna tempestiva tra i team tecnici e aziendali."
+                            ],
+                            "tags": [
+                                "Scrum",
+                                "Jira",
+                                "Python",
+                                "Gestione Progetti",
+                                "E-Commerce",
+                                "Microsoft Power BI",
+                                "Agile",
+                                "Programmazione",
+                                "FinTech"
+                            ]
+                        }
+                    }
+
+                },
+                {
+                    "id": 6,
+                    "img" : "https://media.licdn.com/dms/image/v2/C4D0BAQHUJm2VN5Er2Q/company-logo_200_200/company-logo_200_200/0/1630564224692/waoo_logo?e=1764201600&v=beta&t=LJIin4AMjnus2W7rWZtxB-C6TZpuhWLlsBGoX45OX30",
+                    "faIcon": "fa-brands fa-wordpress",
+                    "faIconColors": {"bg": "#21759B", "bgLight": "#21759B", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
+                    "dateStart": {"year": 2024, "month": 2},
+                    "dateEnd": {"year": 2025, "month": 2},
+                    "locales": {
+                        "en": {
+                            "title": "Web Developer - Full-time",
+                            "province": "Tunis",
+                            "country": "Tunisia",
+                            "institution": "Agence Marketing Web - WAOO",
+                            "text": "Working as a Web Developer at Agence Marketing Web - WAOO. Responsibilities include:",
+                            "list": [
+                                "Leading and mentoring the WordPress development team, providing technical guidance, training, and support to improve overall productivity and code quality.",
+                                "Designing, developing, and deploying custom WordPress plugins tailored to client needs, significantly improving site functionality and user experience.",
+                                "Acting as the main point of technical reference within the team, facilitating knowledge-sharing sessions and onboarding new developers.",
+                                "Utilizing Jira for task tracking and Agile sprint planning, contributing to a culture of transparency and accountability within the team."
+                            ],
+                            "tags": [
+                                "Jira",
+                                "JavaScript",
+                                "Problem Solving",
+                                "Leadership",
+                                "Agile",
+                                "PHP",
+                                "Programming",
+                                "jQuery",
+                                "WordPress"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Développeur Web - Temps plein",
+                            "province": "Tunis",
+                            "country": "Tunisie",
+                            "institution": "Agence Marketing Web - WAOO",
+                            "text": "Je travaille en tant que développeur web chez Agence Marketing Web - WAOO. Mes responsabilités incluent :",
+                            "list": [
+                                "Diriger et encadrer l'équipe de développement WordPress, en fournissant des conseils techniques, une formation et un soutien pour améliorer la productivité globale et la qualité du code.",
+                                "Concevoir, développer et déployer des plugins WordPress personnalisés adaptés aux besoins des clients, améliorant considérablement la fonctionnalité du site et l'expérience utilisateur.",
+                                "Agir en tant que principal point de référence technique au sein de l'équipe, facilitant les sessions de partage des connaissances et l'intégration de nouveaux développeurs.",
+                                "Utiliser Jira pour le suivi des tâches et la planification des sprints Agile, contribuant à une culture de transparence et de responsabilité au sein de l'équipe."
+                            ],
+                            "tags": [
+                                "Jira",
+                                "JavaScript",
+                                "Résolution de problèmes",
+                                "Leadership",
+                                "Agile",
+                                "PHP",
+                                "Programmation",
+                                "jQuery",
+                                "WordPress"
+                            ]
+                        },
+                        "it": {
+                            "title": "Sviluppatore Web - Tempo pieno",
+                            "province": "Tunisi",
+                            "country": "Tunisia",
+                            "institution": "Agence Marketing Web - WAOO",
+                            "text": "Lavoro come sviluppatore web presso Agence Marketing Web - WAOO. Le responsabilità includono:",
+                            "list": [
+                                "Guidare e fare da mentore al team di sviluppo WordPress, fornendo guida tecnica, formazione e supporto per migliorare la produttività complessiva e la qualità del codice.",
+                                "Progettare, sviluppare e distribuire plugin WordPress personalizzati su misura per le esigenze dei clienti, migliorando significativamente la funzionalità del sito e l'esperienza utente.",
+                                "Agire come principale punto di riferimento tecnico all'interno del team, facilitando sessioni di condivisione delle conoscenze e l'onboarding di nuovi sviluppatori.",
+                                "Utilizzare Jira per il monitoraggio delle attività e la pianificazione degli sprint Agile, contribuendo a una cultura di trasparenza e responsabilità all'interno del team."
+                            ],
+                            "tags": [
+                                "Jira",
+                                "JavaScript",
+                                "Problem Solving",
+                                "Leadership",
+                                "Agile",
+                                "PHP",
+                                "Programmazione",
+                                "jQuery",
+                                "WordPress"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
