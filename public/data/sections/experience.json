@@ -191,7 +191,7 @@
                     "dateEnd": {"year": 2023, "month": 3},
                     "locales": {
                         "en": {
-                            "title": "Shopify Developer - Internship",
+                            "title": "Frontend Developer - Internship",
                             "province": "Amsterdam, North Holland",
                             "country": "Netherlands",
                             "institution": "Flatline Agency",
@@ -216,7 +216,7 @@
                             ]
                         },
                         "fr": {
-                            "title": "Développeur Shopify - Stage",
+                            "title": "Développeur Frontend - Stage",
                             "province": "Amsterdam, Hollande-Septentrionale",
                             "country": "Pays-Bas",
                             "institution": "Flatline Agency",
@@ -241,7 +241,7 @@
                             ]
                         },
                         "it": {
-                            "title": "Sviluppatore Shopify - Tirocinio",
+                            "title": "Sviluppatore Frontend - Tirocinio",
                             "province": "Amsterdam, Olanda Settentrionale",
                             "country": "Paesi Bassi",
                             "institution": "Flatline Agency",
